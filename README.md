@@ -1,5 +1,3 @@
--- Konosuba GUI Script - Main
--- This script provides various in-game GUI enhancements.
 
 local HG = {}
 
