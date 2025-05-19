@@ -1,0 +1,2 @@
+# KonosubaV2
+Soon
